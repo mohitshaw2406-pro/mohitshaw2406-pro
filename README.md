@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi 👋 I'm Mohit Shaw
 
-<!--
-**mohitshaw2406-pro/mohitshaw2406-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Learning Python, MySQL & Data Structures  
+🚀 Interested in FULLSTACK Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python  
+- MySQL
+- HTML
+- CSS
+- JAVA SCRIPT
+- Git & GitHub (Learning)
+
+---
+
+## 📌 Projects
+- ✈️ Flight Management System (Python + MySQL)
+
+---
+
+## 🌱 Currently Learning
+- Data Structures
+- Database Management
+- Git & GitHub
+
+---
+
+📫 Connect with me on LinkedIn
+
