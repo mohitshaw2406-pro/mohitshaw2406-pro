@@ -70,16 +70,15 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-cube.vercel.app/api/cube?user=mohitshaw2406-pro&theme=tokyo&animation=spin&size=300" />
+  <img src="https://github-contributions.vercel.app/api/v1/mohitshaw2406-pro?type=cube&color=00eaff&format=svg" />
 </p>
-
 
 ---
 
 # 🔗 Connect With Me
 
-- 🌐 **LinkedIn:** *Add your link here*  
-- 📧 **Email:** *your email here*  
+- 🌐 **LinkedIn:** www.linkedin.com/in/mohit-shaw-17007a345
+- 📧 **Email:** mohitshaw.24.06@gmail.com  
 
 ---
 
