@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F72C5B&size=28&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Python+%7C+MySQL+%7C+JAVA+%7CC; HTML+%7CCSS+%7CJAVASCRIPT; Building+Projects+Every+Day!">
+ <img src="https://readme-typing-svg.herokuapp.com?color=%23F72C5B&size=28&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Python+%7C+MySQL+%7C+Java+%7C+C;HTML+%7C+CSS+%7C+JavaScript;Building+Projects+Every+Day!">
 </p>
 
 ---
@@ -70,16 +70,9 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshaw2406-pro&bg_color=000000&color=ff007f&line=00eaff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-contribution-cube.vercel.app/api/cube?user=mohitshaw2406-pro&theme=tokyo&animation=spin&size=300" />
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitshaw2406-pro&theme=radical&no-frame=true&margin-w=10" />
-</p>
 
 ---
 
