@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F72C5B&size=28&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Python+%7C+MySQL+%7C+JavaScript;Building+Projects+Every+Day!">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23F72C5B&size=28&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Full-Stack+Developer;Python+%7C+MySQL+%7C+JAVA+%7C C; HTML+%7C CSS+%7CJAVASCRIPT; Building+Projects+Every+Day!">
 </p>
 
 ---
@@ -41,23 +41,12 @@
 
 ---
 
-## 🔥 🧮 Python Calculator (GUI)  
-**Tech:** Python + Tkinter  
+## 🔥 🧮 Login - Form - UI (GUI)  
+**Tech:** HTML + CSS  
 **✨ Features:**  
 - Clean GUI  
-- Arithmetic operations  
-- Handles input errors  
-
----
-
-## 🔥 🌐 Portfolio Website  
-**Tech:** HTML + CSS + JavaScript  
-**✨ Features:**  
 - Fully responsive  
-- Smooth animations  
-- Contact form  
-- Creative UI  
-
+- Glassmorphoism UI  
 ---
 
 # 🌱 Currently Learning
