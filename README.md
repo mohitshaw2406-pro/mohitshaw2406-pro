@@ -70,7 +70,7 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-contributions.vercel.app/api/v1/mohitshaw2406-pro?type=cube&color=00eaff&format=svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshaw2406-pro&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
