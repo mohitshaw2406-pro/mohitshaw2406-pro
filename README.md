@@ -81,34 +81,34 @@
 # 🌟 Featured Projects
 
 ## 📈 Progress Tracker  
-**Tech:** HTML, CSS, JavaScript  
+**Tech:** HTML, CSS, JavaScript (PWA)  
 **✨ Overview:**  
-- Personal goal and milestone tracking web app to monitor daily development habits and learning goals  
-- Structured task logging with completion metrics and intuitive progress visualization  
+- Personal habit and goal tracking PWA with insights and personal records  
+- Features GPS-based run tracking and a structured 92-day Winter Arc challenge  
 
 ---
 
 ## 📚 Tuition Buddy  
 **Tech:** React, Node.js, SQL / Firebase  
 **✨ Overview:**  
-- Management system designed for tutors and students to coordinate tuition schedules and subject material  
-- Simplifies class tracking, student records, and day-to-day academic workflow  
+- Coaching management platform with student administration and academic progress tracking  
+- Includes interactive quizzes and AI-powered doubt assistance  
 
 ---
 
 ## 💻 CodeLab  
-**Tech:** HTML, CSS, JavaScript  
+**Tech:** HTML, CSS, JavaScript, Python  
 **✨ Overview:**  
-- Interactive web coding environment and practice lab for experimenting with frontend snippets and algorithms  
-- Hands-on space for testing data structures and building UI components  
+- Mobile-first Python learning platform tailored for Classes 8–12  
+- Features in-browser Python execution, assignments, student submissions, and teacher workflows  
 
 ---
 
 ## 🏛️ Brilliance Coaching Academy  
 **Tech:** HTML, CSS, JavaScript  
 **✨ Overview:**  
-- Web portal developed for an educational coaching academy displaying courses, batch schedules, and announcements  
-- Responsive design tailored for seamless access by students and parents  
+- Comprehensive coaching institute management portal  
+- Covers student records, attendance tracking, timetable, study notes, doubt resolution, and fee management  
 
 ---
 
