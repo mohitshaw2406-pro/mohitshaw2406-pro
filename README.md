@@ -133,7 +133,7 @@
 # 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitshaw2406-pro&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-activity-graph.vercel.app/graph?username=mohitshaw2406-pro&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---

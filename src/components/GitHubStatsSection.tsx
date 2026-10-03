@@ -9,7 +9,7 @@ export const GitHubStatsSection: React.FC = () => {
 
   const statsUrl = `https://github-readme-stats.vercel.app/api?username=mohitshaw2406-pro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&t=${refreshKey}`;
   const langsUrl = `https://github-readme-stats.vercel.app/api/top-langs/?username=mohitshaw2406-pro&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&t=${refreshKey}`;
-  const graphUrl = `https://github-readme-activity-graph.vercel.app/graph?username=mohitshaw2406-pro&theme=tokyo-night&hide_border=true&t=${refreshKey}`;
+  const graphUrl = `https://github-activity-graph.vercel.app/graph?username=mohitshaw2406-pro&theme=tokyo-night&hide_border=true&t=${refreshKey}`;
 
   return (
     <section id="stats" className="py-16 border-t border-slate-900 bg-slate-950">
